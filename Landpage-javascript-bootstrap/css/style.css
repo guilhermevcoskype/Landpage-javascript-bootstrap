@@ -1,0 +1,55 @@
+.carosel-tamanho {
+	object-fit: cover;
+    height: 455px;
+}
+
+.tudo-maiusculo {
+	text-transform: uppercase;
+	font-family: 'Titillium Web', sans-serif;
+	font-size:1rem;
+	font-weight:bold;
+}
+
+.header-tamanho {
+	height:130px;
+}
+
+.navbar-tamanho {
+	height:100px;
+}
+
+.tamanho-brand {
+	height:100px;
+	width:auto;
+}
+
+.esconder {
+	visibility:hidden;
+}
+
+.bg-transparente {
+	background-color: #ffffff;
+	opacity: 0.9;
+	
+}
+
+.tirar-transparente {
+	font-weight: bold;
+	color: #000000;
+}
+
+.carousel-caption {
+ width: 36%;
+ margin-left:49%;
+ top:87% ;
+ bottom:0px;
+}
+
+.titulo-imagem-meio{
+	color: red;
+	font-size:1rem;
+}
+
+.altura-logo {
+	height:10%;
+}
