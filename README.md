@@ -8,4 +8,4 @@ Português:
 
 Inglês:
 
-![Tela da Landpage](ssLandpage.png)
+![Tela da Landpage](ssLandingpage.png)
