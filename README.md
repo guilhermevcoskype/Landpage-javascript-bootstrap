@@ -7,3 +7,5 @@ Português:
 
 
 Inglês:
+
+![Tela da Landpage](ssLandpage.png)
