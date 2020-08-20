@@ -3,9 +3,9 @@ Landpage de estudo de html, css, javascript e bootstrap.
 
 Português:
 
-![Tela da Landpage](telaLandPage.png)
+![Tela da Landpage](telaLandingPage.png)
 
 
 Inglês:
 
-![Tela da Landpage](ssLandingPage.png)
+![SS da Landpage](ssLandingPage.png)
